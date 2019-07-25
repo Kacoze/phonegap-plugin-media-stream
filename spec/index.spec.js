@@ -5,7 +5,7 @@
  */
 
 var cordova = require('./helper/cordova');
-var mediaDevices = require('../www/mediadevices');
+var mediaDevices = require('../www/MediaDevices');
 var MediaStream = require('../www/mediastream');
 var MediaStreamTrack = require('../www/mediastreamtrack');
 
