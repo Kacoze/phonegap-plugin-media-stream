@@ -6,8 +6,8 @@
 
 var cordova = require('./helper/cordova');
 var mediaDevices = require('../www/MediaDevices');
-var MediaStream = require('../www/mediastream');
-var MediaStreamTrack = require('../www/mediastreamtrack');
+var MediaStream = require('../www/mediaStream');
+var MediaStreamTrack = require('../www/MediaStreamTrack');
 
 var mockStream = { id: 'ack', audioTracks: [], videoTracks: [] };
 var mockTrack = {
